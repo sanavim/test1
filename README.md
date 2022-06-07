@@ -8,5 +8,4 @@ more text
 
 ## new subheader added 6/7
 1. hoping to push to main branch
-no more las
-no seriously tho
+2. this poor readme file gettin abused
